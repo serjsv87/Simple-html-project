@@ -1,0 +1,27 @@
+{
+  "name": "uworld",
+  "description": "Start psd to html.",
+  "private": true,
+  "scripts": {
+    "setup": "yarn install",
+    "postinstall": "find node_modules/ -name '*.info' -type f -delete"
+  },
+  "devDependencies": {
+    "browser-sync": "latest",
+    "node-sass": "latest",
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-concat": "latest",
+    "gulp-notify": "latest",
+    "gulp-plumber": "latest",
+    "gulp-rename": "latest",
+    "gulp-sass": "latest",
+    "gulp-sass-glob": "latest",
+    "gulp-shell": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-uglify": "latest",
+    "gulp-scss-lint": "latest",
+    "jshint": "latest",
+    "gulp-jshint": "latest"
+  }
+}

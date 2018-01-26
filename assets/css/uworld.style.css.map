@@ -1,0 +1,1 @@
+{"version":3,"sources":["layout/_base.scss"],"names":[],"mappings":"AAAA,IACC,qBAAsB,CACtB","file":"uworld.style.css","sourcesContent":["div{\n\tborder: 1px solid blue;\n}"]}

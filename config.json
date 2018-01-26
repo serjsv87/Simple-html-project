@@ -1,0 +1,25 @@
+{
+  "name": "uworld",
+  "description": "A theme based on Radix.",
+  "browserSyncProxy" : "http://caramelka.uw-t.com",
+  "css": {
+    "file" : "uworld.style.scss",
+    "src": [
+      "scss/**/*.scss"
+    ],
+    "dest": "assets/css"
+  },
+  "js": {
+    "file" : "uworld.script.js",
+    "src": [
+      "assets/js/**/*.js"
+    ],
+    "dest": "assets/js"
+  },
+  "images": {
+    "src": [
+      "assets/images/**/*"
+    ],
+    "dest": "assets/images/"
+  }
+}
